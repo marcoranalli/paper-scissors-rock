@@ -14,12 +14,6 @@ A clean, responsive browser game of Paper-Scissors-Rock (Carta-Forbici-Sasso) bu
 - [🛠 Tech Stack](#-tech-stack)  
 - [🚀 Getting Started](#-getting-started)  
   - [Prerequisites](#-prerequisites)  
-  - [Installation](#-installation)  
-- [⚙️ Usage](#️-usage)  
-- [📂 Project Structure](#-project-structure)  
-- [📈 Roadmap](#-roadmap)  
-- [🤝 Contributing](#-contributing)  
-- [📄 License](#-license)  
 
 ---
 
